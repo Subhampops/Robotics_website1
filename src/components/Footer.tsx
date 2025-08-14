@@ -6,12 +6,6 @@ const Footer: React.FC = () => {
 
   const socialLinks = [
     {
-      name: "Facebook",
-      icon: <Facebook className="w-5 h-5" />,
-      url: "https://facebook.com/roboticsclub.aec",
-      color: "hover:text-blue-500"
-    },
-    {
       name: "Instagram",
       icon: <Instagram className="w-5 h-5" />,
       url: "https://instagram.com/roboticsclub_aec",
